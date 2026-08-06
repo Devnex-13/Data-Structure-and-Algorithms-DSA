@@ -16,11 +16,12 @@
 
 1. Valid Palindrome Using Two Pointer Aprroach (TPA)
 2. Reverse String Array Using TPA
-3. Merge String Alternate Using TPA  
+3. Merge String Alternate Using TPA 
+4. Palindrome Integer Using TPA 
 
 ## Total Problems
 
-3
+4
 
 ## Learning
 
