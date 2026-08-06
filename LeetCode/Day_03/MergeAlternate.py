@@ -5,12 +5,10 @@ def MergerAlternate(word1, word2):
   n = min(len(word1),len(word2))
 
   while r<n:
-    if(l==r):
-      s+=word1[l]
-      s+=word2[r]
-
-      l+=1
-      r+=1
+    s+=word1[l]
+    s+=word2[r]
+    l+=1
+    r+=1
   if(len(word1)<len(word2)):
     s+=word2[r:]
   else:
