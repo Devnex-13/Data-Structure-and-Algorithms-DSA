@@ -12,7 +12,7 @@ def isPalid(s):
   s = re.sub(r'[a-zA-Z0-9]', '', s)
   s = s.lower()
   l = 0
-  r = 0
+  r = len(s)
 
   while l < r:
     if s[l] == s[r]:
