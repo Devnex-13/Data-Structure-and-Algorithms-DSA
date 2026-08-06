@@ -9,7 +9,7 @@ def isPalindrome(s):
 # OR
 
 def isPalid(s):
-  s = re.sub(r'[a-zA-Z0-9]', '', s)
+  s = re.sub(r'[^a-zA-Z0-9]', '', s)
   s = s.lower()
   l = 0
   r = len(s) -1
