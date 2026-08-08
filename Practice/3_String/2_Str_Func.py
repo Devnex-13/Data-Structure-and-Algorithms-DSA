@@ -30,3 +30,5 @@ print(name.isalpha()) # Output: False (checks if all characters in the string ar
 print(name.isalnum()) # Output: False (checks if all characters in the string are alphanumeric; returns False due to space)
 
 print(name.isdigit()) # Output: False (checks if all characters in the string are digits; returns False)
+print(name.isdigit()) # Output: False (checks if all characters in the string are digits; returns False)
+print(name.isdigit()) # Output: False (checks if all characters in the string are digits; returns False)
