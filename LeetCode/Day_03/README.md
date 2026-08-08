@@ -1,4 +1,4 @@
-# Day 2 - Dictionary and Hashing
+# Day 3 - Two Pointer
 
 ## Topics Learned
 

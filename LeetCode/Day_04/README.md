@@ -1,4 +1,4 @@
-# Day 2 - Dictionary and Hashing
+# Day 4 - Sliding Window
 
 ## Topics Learned
 
