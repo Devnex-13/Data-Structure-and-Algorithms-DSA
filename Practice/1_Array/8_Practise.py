@@ -6,3 +6,4 @@ s = s[i+1:]
 
 
 print(len(s))
+print(len(s))
