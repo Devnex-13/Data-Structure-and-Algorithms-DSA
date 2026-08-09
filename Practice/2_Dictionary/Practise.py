@@ -18,3 +18,10 @@ def lengthOfLongestSubstring(s):
 
 s = 'ccbbcc'
 print(lengthOfLongestSubstring(s))
+
+dict = {
+    "dec":12,
+    "pote":10
+}
+
+print(max(dict.values()))
